@@ -1,0 +1,144 @@
+[
+
+    {
+
+        "id": 10,
+
+        "name": "Andaman Islands",
+
+        "description": "The Andaman Islands are known for their white sandy beaches, crystal-clear waters, and vibrant marine life, perfect for snorkeling and diving.",
+
+        "city": "Andaman",
+
+        "category": "Beach"
+
+    },
+
+    {
+
+        "id": 7,
+
+        "name": "Darjeeling Tea Gardens",
+
+        "description": "Darjeeling is famous for its tea gardens, where you can witness breathtaking views of the Himalayas while sipping aromatic tea.",
+
+        "city": "Darjeeling",
+
+        "category": "Mountain"
+
+    },
+
+    {
+
+        "id": 2,
+
+        "name": "Gateway of India",
+
+        "description": "The Gateway of India is an arch-monument built in the early twentieth century in the city of Mumbai, India.",
+
+        "city": "Mumbai",
+
+        "category": "Historical"
+
+    },
+
+    {
+
+        "id": 3,
+
+        "name": "Goa Beaches",
+
+        "description": "Goa is known for its beautiful beaches stretching along the Arabian Sea, offering a vibrant nightlife and Portuguese heritage.",
+
+        "city": "Goa",
+
+        "category": "Beach"
+
+    },
+
+    {
+
+        "id": 4,
+
+        "name": "Golden Temple",
+
+        "description": "The Golden Temple is a sacred Sikh gurdwara in Amritsar, Punjab, known for its stunning architecture and spiritual significance.",
+
+        "city": "Amritsar",
+
+        "category": "Religious"
+
+    },
+
+    {
+
+        "id": 5,
+
+        "name": "Jaipur Pink City",
+
+        "description": "Jaipur, the Pink City, is famous for its historic forts, palaces, vibrant culture, and bustling markets.",
+
+        "city": "Jaipur",
+
+        "category": "City"
+
+    },
+
+    {
+
+        "id": 8,
+
+        "name": "Jaisalmer Fort",
+
+        "description": "Jaisalmer Fort is one of the largest fully preserved fortified cities in the world, located in the heart of the Thar Desert.",
+
+        "city": "Jaisalmer",
+
+        "category": "Historical"
+
+    },
+
+    {
+
+        "id": 6,
+
+        "name": "Kerala Backwaters",
+
+        "description": "Kerala's backwaters are a network of interconnected canals, rivers, lakes, and inlets, offering serene boat rides amidst lush greenery.",
+
+        "city": "Kerala",
+
+        "category": "Nature"
+
+    },
+
+    {
+
+        "id": 1,
+
+        "name": "Taj Mahal",
+
+        "description": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.",
+
+        "city": "Agra",
+
+        "category": "Historical"
+
+    },
+
+    {
+
+        "id": 9,
+
+        "name": "Varanasi Ghats",
+
+        "description": "Varanasi is a spiritual city on the banks of the River Ganges, famous for its ghats, temples, and religious ceremonies.",
+
+        "city": "Varanasi",
+
+        "category": "Religious"
+
+    }
+
+]
+ 

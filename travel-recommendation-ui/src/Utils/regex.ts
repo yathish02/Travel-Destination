@@ -1,0 +1,1 @@
+export const cityNameRegex = /^[a-zA-Z\s]*$/;
